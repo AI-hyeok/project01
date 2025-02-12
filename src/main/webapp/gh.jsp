@@ -6,11 +6,12 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<script src="https://code.jquery.com/jquery-3.7.1.js">
+<script>
+ src="https://code.jquery.com/jquery-3.7.1.js"
 </script>
  </head>
 <body>
-	<table border="1" align="center" width="300px">
+<table border="1" align="center" width="300px">
 		<tr>
 			<th>회원가입</th>
 		</tr>
@@ -27,7 +28,7 @@
 			<td><input type="text" placeholder="비밀번호 확인"></td>
 		</tr>
 		<tr>
-			<td><input tyep="text" placeholder="email 입력">
+			<td><input type="text" placeholder="email 입력">
 				<button>중복체크</button>
 			</td>
 		</tr>
